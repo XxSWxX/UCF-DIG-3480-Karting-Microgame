@@ -1,1 +1,0 @@
-# UCF-DIG-3480-Karting-Microgame
